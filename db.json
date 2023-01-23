@@ -1,0 +1,67 @@
+{
+  "houses":[
+    {
+      "id": 1,
+      "image":"https://img.freepik.com/free-photo/3d-rendering-modern-dining-room-living-room-with-luxury-decor_105762-1932.jpg?w=1800&t=st=1674505535~exp=1674506135~hmac=4381d273f588f31fafa2e6440ec764e3c91d0a84a4cf7d03d86d60299a7de39d",
+      "location": "Kinoo",
+      "price":65000,
+      "bedrooms": 4,
+      "bathrooms": 5
+    },
+    {
+      "id": 2,
+      "image":"https://img.freepik.com/free-photo/3d-electric-car-building_23-2148972401.jpg?w=1380&t=st=1674506228~exp=1674506828~hmac=dd615c92aea578affc6282d26aee677edc4b763d3e3342d4f7295bc6b1550ed0",
+      "location": "Kinoo",
+      "price":70000,
+      "bedrooms": 5,
+      "bathrooms": 6
+    },
+    {
+      "id": 3,
+      "image":"https://img.freepik.com/free-photo/house-isolated-field_1303-23772.jpg?w=1380&t=st=1674506296~exp=1674506896~hmac=71cca2be90cb73030e0d30138dbedde179f29396c7d4ec644b0d9d7314045ac4",
+      "location": "Kinoo",
+      "roomtype":"Stand-Alone",
+      "price":80900,
+      "bedrooms": 5,
+      "bathrooms": 6
+    },
+    {
+      "id": 4,
+      "image":"https://img.freepik.com/free-photo/3d-rendering-luxury-modern-bedroom-suite-tv-with-wardrobe-walk-closet_105762-1941.jpg?w=1480&t=st=1674506491~exp=1674507091~hmac=f006fc09a9956f0925528385f1235462e44f6834d69d3eddac779513413300ca",
+      "location": "Regen",
+      "roomtype":"apartment",
+      "price":35000,
+      "bedrooms": 2,
+      "bathrooms": 3
+    },
+      
+    {
+      "id": 5,
+      "image":"https://t4.ftcdn.net/jpg/01/88/38/85/240_F_188388579_pRh01tcHlVBh63Dham1uAnrsept8ZZyF.jpg",
+      "location": "Regen",
+      "roomtype":"apartment",
+      "price":25000,
+      "bedrooms": 1,
+      "bathrooms": 2
+    },
+    {
+      "id": 6,
+      "image":"https://img.freepik.com/free-photo/3d-electric-car-building_23-2148972401.jpg?w=1380&t=st=1674506813~exp=1674507413~hmac=76b520503c433970d5bbb35b98c222d07c8c8a5f5977f4a78fc644b53a011ebd",
+      "location": "Regen",
+      "roomtype":"apartment",
+      "price":65000,
+      "bedrooms": 4,
+      "bathrooms": 5
+    }, 
+    {
+      "id": 7,
+      "image":"san frahttps://img.freepik.com/free-photo/swimming-pool-resort_1150-10729.jpg?w=1380&t=st=1674507076~exp=1674507676~hmac=89840abc0a5e280c7344e0ce9006bccfb64c10ad8090ad15b738e80194325321",
+      "location": "Nyali",
+       "roomtype":"Stand-Alone",
+      "price":180000,
+      "bedrooms": 5,
+      "bathrooms": 6
+    }
+      
+    ]
+}
